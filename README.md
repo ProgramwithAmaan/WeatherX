@@ -1,16 +1,65 @@
-# React + Vite
+# 🌦️ WeatherX
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WeatherX is a modern weather application built with **React.js** that provides real-time weather information in a clean and responsive interface. Although it is not a native mobile application, WeatherX can be installed on mobile devices using the **"Add to Home Screen"** feature, giving users an app-like experience.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+🔗 **Try WeatherX:** https://weather-x-as.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features
 
-## Expanding the ESLint configuration
+* 🌍 Search weather by city name
+* 🌡️ Real-time temperature updates
+* 💧 Humidity information
+* 🌬️ Wind speed details
+* ☁️ Weather condition display
+* 📱 Responsive design for mobile and desktop
+* 🏠 Installable on mobile devices through Add to Home Screen
+* ⚡ Fast and lightweight user experience
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Weather API
+* Axios / Fetch API
+
+
+## 📱 Using WeatherX on Mobile
+
+WeatherX is a web application that can be installed on smartphones:
+
+### Android
+
+1. Open WeatherX in Chrome.
+2. Tap the menu (⋮).
+3. Select **Add to Home Screen**.
+4. Confirm installation.
+
+### iPhone
+
+1. Open WeatherX in Safari.
+2. Tap the Share button.
+3. Select **Add to Home Screen**.
+4. Tap **Add**.
+
+The app will appear on your home screen and can be used like a regular mobile application.
+
+## 🎯 Future Enhancements
+
+* 7-Day Weather Forecast
+* Hourly Forecast
+* Weather Maps
+* Dark Mode
+* Weather Alerts and Notifications
+
+## 🤝 Contributing
+
+Contributions are welcome. Feel free to fork the repository and submit pull requests.
+
+
+Made with ❤️ using React by **Amaan Saifi**
+

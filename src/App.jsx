@@ -427,7 +427,7 @@ const WeatherApp = () => {
         <div className="weather-app">
           {/* Header */}
           <div className="app-header">
-            <div className="logo"><span className="logo-icon">🌤️</span><h1>Weather</h1></div>
+            <div className="logo"><span className="logo-icon">🌤️</span><h1>WeatherX</h1></div>
             <div className="header-actions">
               <button onClick={() => setShowCityManager(!showCityManager)} className="cities-btn">📍 {savedCities.length}</button>
               <button onClick={toggleUnit} className="temp-toggle">{getTempUnit()}</button>
